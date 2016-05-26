@@ -1,0 +1,5 @@
+package: github.com/patito/wegotickets
+import:
+- package: github.com/PuerkitoBio/goquery
+- package: github.com/Sirupsen/logrus
+- package: github.com/joho/godotenv

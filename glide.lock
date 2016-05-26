@@ -1,0 +1,21 @@
+hash: 41f291fd7cfc7436616777600f264ef02609678888c565ba38f2255c602d066d
+updated: 2016-05-26T20:35:20.406183024+01:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 3ad29d1ad1c4f2023e355603324348cf1f4b2d48
+- name: github.com/joho/godotenv
+  version: 4ed13390c0acd2ff4e371e64d8b97c8954138243
+- name: github.com/PuerkitoBio/goquery
+  version: aeecb06b1e04a72e7d3312468c5b92f6bb2f3459
+- name: github.com/Sirupsen/logrus
+  version: 6d9ae300aaf85d6acd2e5424081c7fcddb21dab8
+- name: golang.org/x/net
+  version: dfd9ed699ea197b58a32e0d1dcfa2be66f127ec4
+  subpackages:
+  - html
+  - html/atom
+- name: golang.org/x/sys
+  version: d4feaf1a7e61e1d9e79e6c4e76c6349e9cab0a03
+  subpackages:
+  - unix
+devImports: []
